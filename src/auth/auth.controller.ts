@@ -1,0 +1,2 @@
+import {Contr}
+class AuthController{}
